@@ -2,8 +2,7 @@
 <html>
 <head>
 	<title>Kwitter Room</title>
-<link rel="stylesheet" href="insta_room.css">
-<script src="insta_room.js"></script>
+
 
 <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-firestore.js"></script>
@@ -13,7 +12,7 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="insta_room.css">
 
 </head>
 <body>
@@ -32,7 +31,7 @@
 			<input type="text" id="room_name" class="form-control" placeholder="#room name">
 
 		</div>
-		<button onclick="addRoom();" class="btn btn-success">#Add Room</button>
+		<button onclick="addRoom();" class="btn btn-success" id="add_room">#Add Room</button>
 		<h3 class="color_white">#TRENDINGROOMS</h3>
 		<div id="output"></div>
 	</center>

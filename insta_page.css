@@ -1,0 +1,24 @@
+body{
+    background-color: #72fcec;
+    margin:0 ;
+    height: 100%;
+}
+
+
+#logout{
+    background-color: #fc79bf;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  #output{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ca46eb;
+  }
+
+  #send{
+      font-size: 20px;
+      width: 50px;
+      background-color: #ff8787;
+  }

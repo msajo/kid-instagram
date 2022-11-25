@@ -1,0 +1,25 @@
+
+body
+{
+    background-color: paleturquoise;
+    height: 100%;
+  margin: 0;
+}
+
+#add_room{
+width: 50%;
+font-size: 20px;
+background-color: pink;
+}
+
+#output{
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: #ca46eb;
+}
+
+#logout{
+  background-color: #fc79bf;
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
