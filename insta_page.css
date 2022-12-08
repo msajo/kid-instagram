@@ -3,22 +3,29 @@ body{
     margin:0 ;
     height: 100%;
 }
-
-
 #logout{
     background-color: #fc79bf;
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  }
-
-  #output{
+}
+#output{
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: #ca46eb;
-  }
+    padding: 20px;
+}
+#send{
+  font-size: 20px;
+  background-color: #ff8787;
+}
+#logo{
+  width: 50px;
+  border: rosybrown;
+}
 
-  #send{
-      font-size: 20px;
-      width: 50px;
-      background-color: #ff8787;
-  }
+
+  
+
+
+
+  
